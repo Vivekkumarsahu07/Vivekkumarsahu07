@@ -9,7 +9,7 @@ As a student i am currently working on developing my skills and like to work in 
 ### Talking about Personal Stuffs:
 
 - 🔭 I’m currently working on something cool;
-- 🌱 I’m currently learning DSA and Cloud Computing;
+- 🌱 I’m currently learning DSA and Problem solving using Computation;
 - 💬 Ask me about anything, i am happy to help;
 - 📫 How to reach me: vivekkumarsahu979@gmail.com;
 
