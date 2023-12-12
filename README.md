@@ -3,7 +3,7 @@
 ## Glad to see you here!
 
 I am currently a student, pursuing integrated(M-TECH) in CSE specialization in Computation and Data Science.                                    
-I love prorgramming, working on real life projects, reading and playing football.                                                   
+I love prorgramming, working on real life projects, travelling and playing football.                                                   
 As a student i am currently working on developing my skills and like to work in a group. 
 
 ### Talking about Personal Stuffs:
